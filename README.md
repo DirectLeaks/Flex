@@ -1,3 +1,3 @@
 # Flex
 Flex/Flex AntiCheat.png
-<img src="Flex/Flex AntiCheat.png" alt="Flex" class="inline"/>
+<img src="Flex/Flex.png" alt="Flex" class="inline"/>
